@@ -11,7 +11,7 @@ There are a total of four proposed methods:
 - **Pure method**: <u> Submit queries to Spotify Get Recommendations API and get a list of recommendations for each song in the target playlist, and then filter these recommendations according to the trend of energy.</u> 
 
 - **Meet-middle method**: Since the Pure method starts from the first song, the difference between the target plalylist and the list of recommended songs will enlarge as the number of songs increases. To alleviate this issue, I proposed the **Meet-middle method**. 
-<div align=center><img width="500px" src="meetmiddle.png"/></div>
+<div align=center><img width="550px" src="meetmiddle.png"/></div>
 
 - **Recommend first, then place common songs**: <u>Use a **modified version of Pure method** to generate a list of recommendations. Then replace some recommendations by common songs. </u> 
 
