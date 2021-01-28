@@ -1,6 +1,5 @@
 # Song-Recommendation-System
-Song Recommendation System based on the user's workout plan and previous listening history on Spotify.
-
+The song recommendation system is based on the user's workout plan and previous listening history on Spotify. Ideally, users will be able to design and submit their exercise plan, including the duration and sequence of each exercise intensity, the machine will output a new playlist containing song recommendations, and users can directly play and enjoy these songs during the exercise. And the energy curve of these songs is consistent with the user's exercise intensity. For example, they will hear energetic songs during intense aerobic exercise and smooth songs during warm-up and end.
 
 ### Phase 1
 #### Goal
