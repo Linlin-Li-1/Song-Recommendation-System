@@ -1,7 +1,7 @@
 # Song-Recommendation-System
 The song recommendation system is based on the user's workout plan and previous listening history on Spotify. Ideally, users will be able to design and submit their exercise plan, including the duration and sequence of each exercise intensity, the machine will output a new playlist containing song recommendations, and users can directly play and enjoy these songs during the exercise. And the energy curve of these songs is consistent with the user's exercise intensity. For example, they will hear energetic songs during intense aerobic exercise and smooth songs during warm-up and end.
 
-### Phase 1
+### Phase 1 (Oct 1, 2020 - Jan 5, 2021)
 #### Goal
 Given a playlist or a list of songs and the user's listening history, the machine can generate a list of song recommendations that should maintain the "energy curve" (we only consider the direction of the trend) for workout purposes and and the generated playlist should be similar to the target as close as possible. To reduce the deviation between the original playlist and the recommended playlist, "Meet Middle" method was proposed and implemented. 
 
@@ -17,7 +17,7 @@ There are a total of four proposed methods:
 
 - **Place common songs first, then recommend**:<u> Compare the "difference" between each target song and each common song and determine the places for some common songs. Then use **Meet-middle method** to generate recommendations between common songs. 
 
-### Phase 2
+### Phase 2 (Jan 6, 2021 - )
 #### Goal
 Given the workout plan of the user, the machine can generate a playlist using top songs or recently played songs. Combine with phase 1, a list of song recommendations can be generated according to the user's workoutplan and previous listening history.
 
