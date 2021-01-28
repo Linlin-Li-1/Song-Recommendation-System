@@ -19,7 +19,7 @@ There are a total of four proposed methods:
 
 ### Phase 2
 #### Goal
-Given the workout plan of the user, the machine can generate a playlist using top songs or recently played songs. Combine phase 1 and 2, first use phase 2's method to generate a "target" playlist and then use phase 1's methods to customize the recommendations.
+Given the workout plan of the user, the machine can generate a playlist using top songs or recently played songs. Combine with phase 1, a list of song recommendations can be generated according to the user's workoutplan and previous listening history.
 
 ### Phase 3
 #### Goal
