@@ -18,7 +18,7 @@ There are a total of four proposed methods:
 
 - **Place common songs first, then recommend**:<u> Compare the "difference" between each target song and each common song and determine the places for some common songs. Then use **Meet-middle method** to generate recommendations between common songs. 
 
-### Phase 2 (Jan 6, 2021 - )
+### Phase 2 (Jan 6, 2021 - Feb 24, 2021)
 #### Goal
 Given the workout plan of the user, the machine can generate a playlist using top songs or recently played songs. Combine with phase 1, a list of song recommendations can be generated according to the user's workoutplan and previous listening history.
 
