@@ -22,6 +22,6 @@ There are a total of four proposed methods:
 #### Goal
 Given the workout plan of the user, the machine can generate a playlist using top songs or recently played songs. Combine with phase 1, a list of song recommendations can be generated according to the user's workoutplan and previous listening history.
 
-### Phase 3
+### Phase 3 (Feb 25, 2021 - Mar 30, 2021)
 #### Goal
 Apply machine learning methods to learn and customize the parameter weights, and provide personalized recommendations for each user.
